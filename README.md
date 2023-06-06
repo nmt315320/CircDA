@@ -62,7 +62,7 @@ mmodels.py
 fivefold.py
 
 The tool is developed for circRNA-disease association using graph convolutional network
-![image](https://github.com/nmt315320/CircDA/blob/main/structure.png)
+![image](https://github.com/nmt315320/CircDA/blob/846d0ae6dfe76097e802ce7b073d69f3fdf458b7/structure.png)
 
 
 # Usage
