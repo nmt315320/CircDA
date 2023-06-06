@@ -8,7 +8,24 @@ This program is free software; you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program; if not, see http://www.gnu.org/licenses/.
+## Pre-requisite:  
+* **Ubuntu 16.04**
+* **Anaconda 3-5.2.0**
+* **Python packages:**   
+  [numpy](https://numpy.org/) 1.16.4  
+  [pandas](https://pandas.pydata.org/) 0.23.0  
+  [scikit-learn](https://scikit-learn.org/stable/) 0.19.1  
+  [scipy](https://www.scipy.org/) 1.1.0  
+ **[Keras](https://keras.io/) 2.1.0** 
+[torch]  
+  
+## Installation guide
+#### **Operation system**  
+Ubuntu 16.04 download from https://www.ubuntu.com/download/desktop  
+#### **Python and packages**  
+Download Anaconda 3-5.2.0 tarball on https://www.anaconda.com/distribution/#download-section  
 
+**1.Dataset**：
 
 #Type: Package
 
@@ -22,7 +39,7 @@ Dataset3: circRNA disease;
 
 Dataset4:circAtlas;
 
-2.code
+**2.code**：
 similarity1.py
 
 similarity1.py
