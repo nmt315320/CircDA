@@ -61,7 +61,7 @@ mmodels.py
 
 fivefold.py
 
-The tool is developed for circRNA-RBP interaction sites identification using deep hierarchical network
+The tool is developed for circRNA-disease association using graph convolutional network
 ![image](https://github.com/nmt315320/CircDA/blob/main/structure.png))
 
 
