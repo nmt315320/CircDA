@@ -22,8 +22,6 @@ Dataset3: circRNA disease;
 
 Dataset4:circAtlas;
 
-Dataset5: CircFunBase.
-
 2.code
 similarity1.py
 
