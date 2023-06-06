@@ -57,7 +57,7 @@ mmodels.py
 fivefold.py
 
 The tool is developed for circRNA-RBP interaction sites identification using deep hierarchical network
-![image]([https://github.com/nmt315320/CircDA.git/blob/f40f59746ae71cbba63b9d411f5b31bb9371ef66/Architecture.png](https://github.com/nmt315320/CircDA/blob/main/structure.png))
+![image](https://github.com/nmt315320/CircDA/blob/main/structure.png))
 # Requirements
 - Python 3.7 (64-bit)
 - Keras 2.2.0 in Python
